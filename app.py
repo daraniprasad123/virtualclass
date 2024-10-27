@@ -11,7 +11,7 @@ def get_db_connection():
         host='clonedb.clm8ymomq9h6.us-east-1.rds.amazonaws.com',
         user='admin',
         password='mohanapriya',
-        database='clonedb'
+        database='clone_db'
     )     
 
 # Registration Route
